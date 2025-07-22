@@ -1,0 +1,3 @@
+.env
+api_secrets.txt
+#This File contains sensitive API Keys and should not be shared publicly
